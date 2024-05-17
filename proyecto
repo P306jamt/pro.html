@@ -1,0 +1,238 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rescate y Ayuda COBAEV</title>
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Segoe+UI:wght@400&display=swap');
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            /* Fondo negro */
+            color: #000;
+            /* Texto negro */
+        }
+        header {
+            background-color: #007BFF;
+            /* Azul */
+            color: #000;
+            /* Texto negro */
+            padding: 1.5em 0;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            font-family: 'Playfair Display', serif;
+            color: #000;
+            /* Texto negro */
+        }
+        nav {
+            background-color: #28a745;
+            /* Verde */
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: #000;
+            /* Texto negro */
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #218838;
+            /* Verde oscuro */
+            color: #000;
+            /* Texto negro */
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            /* Fondo blanco */
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-left: 5px solid #ffc107;
+            /* Amarillo */
+            color: #000;
+            /* Texto negro */
+        }
+        h1, h2 {
+            color: #007BFF;
+            /* Azul */
+        }
+        h2, h3 {
+            font-family: 'Playfair Display', serif;
+        }
+        h3 {
+            color: #28a745;
+            /* Verde */
+        }
+        footer {
+            background-color: #007BFF;
+            /* Azul */
+            color: #000;
+            /* Texto negro */
+            text-align: center;
+            padding: 20px 0;
+            position: relative;
+            width: 100%;
+            margin-top: 40px;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e8f0fe;
+            /* Azul claro */
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 4px solid #007BFF;
+            /* Azul */
+            color: #000;
+            /* Texto negro */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Rescate y Ayuda COBAEV</h1>
+        <p>
+            Tu seguridad es primero
+        </p>
+    </header>
+
+    <nav>
+        <a href="#introduccion">Introducción</a>
+        <a href="#bienvenida">Bienvenida</a>
+        <a href="#mision">Misión</a>
+        <a href="#vision">Visión</a>
+        <a href="#objetivos">Objetivos</a>
+        <a href="#inversion">Inversión</a>
+        <a href="#organizacion">Organización</a>
+        <a href="#estrategias">Estrategias</a>
+        <a href="#conclusion">Conclusión</a>
+    </nav>
+
+    <section id="introduccion">
+        <h2>Introducción</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1GlfIB0StWz8NuYJB9OqyJAUddBDrCNb-qw&s/800x400" alt="Introducción">
+        </div>
+        <p>
+            El proyecto "Rescate y Ayuda COBAEV" está dedicado a brindar asistencia y apoyo en situaciones de emergencia a la comunidad del Colegio de Bachilleres del Estado de Veracruz. Nuestro objetivo principal es garantizar la seguridad y el bienestar de todos los estudiantes, profesores y personal administrativo del COBAEV.
+        </p>
+    </section>
+
+    <section id="bienvenida">
+        <h2>Bienvenida</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1D1akLvL8xWqElzhBhvS6PQW4Ecc5yx-Vpg&s/800x400" alt="Bienvenida">
+        </div>
+        <p>
+            Bienvenidos al sitio oficial de "Rescate y Ayuda COBAEV". Aquí encontrarán toda la información relevante sobre nuestras actividades, objetivos y cómo pueden participar en este importante proyecto.
+        </p>
+    </section>
+
+    <section id="mision">
+        <h2>Misión</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPsTN2V3B4elTrg5UROXS0gFKp-mba0IAhw&s/800x400" alt="Misión">
+        </div>
+        <p>
+            Nuestra misión es proporcionar servicios de rescate y asistencia de alta calidad en situaciones de emergencia, asegurando la protección y el bienestar de toda la comunidad educativa del COBAEV.
+        </p>
+    </section>
+
+    <section id="vision">
+        <h2>Visión</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz815sUwUC3tfzJifhUPINy9F7xyJJ8-2bgA&s/800x400" alt="Visión">
+        </div>
+        <p>
+            Nos visualizamos como un proyecto líder en la gestión de emergencias dentro de instituciones educativas, conocido por nuestra eficacia, rapidez y compromiso con la seguridad.
+        </p>
+    </section>
+
+    <section id="objetivos">
+        <h2>Objetivos</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx0eI_hZ75xCEBdJFT_XMqt_Qj0dUCHKf4A&s/800x400" alt="Objetivos">
+        </div>
+        <h3>Objetivo General</h3>
+        <p>
+            Garantizar la seguridad y el bienestar de la comunidad del COBAEV mediante la implementación de servicios de rescate y asistencia en situaciones de emergencia.
+        </p>
+        <h3>Objetivos Específicos</h3>
+        <ul>
+            <li>Establecer protocolos de acción rápida para diferentes tipos de emergencias.</li>
+            <li>Capacitar a estudiantes y personal en técnicas básicas de primeros auxilios y manejo de crisis.</li>
+            <li>Colaborar con autoridades locales y organizaciones de rescate para mejorar la eficacia de nuestras operaciones.</li>
+        </ul>
+    </section>
+
+    <section id="inversion">
+        <h2>Inversión del Proyecto</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXL5ym8kx6wpnPs-Dvm6JXLjaq7rOCZXYbg&s/800x400" alt="Inversión">
+        </div>
+        <p>
+            La inversión necesaria para el proyecto incluye la adquisición de equipos de rescate, materiales de primeros auxilios, capacitación del personal y la creación de campañas de concienciación. Se estima un presupuesto inicial de $500,000 MXN.
+        </p>
+    </section>
+
+    <section id="organizacion">
+        <h2>Organización del Proyecto</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayeolTptp6LeJ9NK99jtN-OE7ZXQsbJFFqw&s" alt="Organización">
+        </div>
+        <p>
+            El proyecto está organizado en varias áreas clave: coordinación general, equipo de rescate, equipo de primeros auxilios, y relaciones públicas. Cada área tiene un responsable designado y un equipo de apoyo que trabaja en conjunto para garantizar el éxito del proyecto.
+        </p>
+    </section>
+
+    <section id="estrategias">
+        <h2>Estrategias de Marketing y Publicidad</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmijUKcVkx9VCCI_YcAZ0YZQmtVojwLZAe8Q&s/800x400" alt="Estrategias">
+        </div>
+        <p>
+            Nuestras estrategias de marketing incluyen la utilización de redes sociales, creación de contenido educativo, talleres y simulacros abiertos al público, y alianzas con medios locales para difundir nuestras actividades y objetivos.
+        </p>
+    </section>
+
+    <section id="conclusion">
+        <h2>Conclusión</h2>
+        <div class="image-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBNLKq80_s03vakAYNac4Nj62yW7cafhbbQ&s/800x400" alt="Conclusión">
+        </div>
+        <p>
+            "Rescate y Ayuda COBAEV" es un proyecto comprometido con la seguridad de la comunidad educativa. Con su apoyo, podemos construir un entorno más seguro y preparado para enfrentar cualquier emergencia. Recuerden, su seguridad es primero.
+        </p>
+    </section>
+
+    <footer>
+        <p>
+            &copy; 2024 Rescate y Ayuda COBAEV. Todos los derechos reservados.
+        </p>
+    </footer>
+
+</body>
+</html>
